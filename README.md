@@ -25,5 +25,5 @@ If you use cocoapods, `pod "D3/MODULE_NAME"`
 
 The available modules are listed below:
 
-- [d3-scale](https://github.com/D3-Scale/)
-- [d3-shape](https://github.com/D3-Shape/)
+- [D3-Scale](https://github.com/D3-Swift/D3-Scale/)
+- [D3-Shape](https://github.com/D3-Swift/D3-Shape/)
